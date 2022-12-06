@@ -1,0 +1,9 @@
+age,competition,type,profit
+old,yes,s/w,no
+old,no,s/w,no
+mid,no,h/w,no
+mid,yes,s/w,no
+mid,yes,h/w,yes
+new,no,h/w,yes
+old,no,h/w,yes
+new,yes,h/w,no

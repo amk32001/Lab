@@ -52,6 +52,6 @@ public class tDWeight
 			out.printf("%d,%d,%.3f,%.3f,%.3f,%.3f",p,q,A_Tw.get(i-1),B_Tw.get(i-1),A_Dw.get(i-1),B_Dw.get(i-1));
 			out.printf("\n");
 		}
-		out.close();
+		out.close();;
 	}
 }
